@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.0.0-u1.28-220214-2.6 (utf8.uptex) (TeX Live 2022) (preloaded format=uplatex 2022.9.23)  8 SEP 2025 19:39
+This is e-upTeX, Version 3.141592653-p4.0.0-u1.28-220214-2.6 (utf8.uptex) (TeX Live 2022) (preloaded format=uplatex 2022.9.23)  8 SEP 2025 19:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -197,14 +197,22 @@ LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
 (Font)              scaled to size 23.0061pt on input line 15.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 (Font)              scaled to size 23.0061pt on input line 15.
-LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 17.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 16.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 13.31541pt on input line 16.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 17.
-LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 17.
+(Font)              scaled to size 13.31541pt on input line 16.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 17.
+(Font)              scaled to size 13.31541pt on input line 16.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 19.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 19.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 19.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 9.24683pt on input line 19.
 [3] [4
 
 ]
@@ -221,15 +229,15 @@ LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 
 ]
 第5章
-Package plautopatch Info: No additional packages loaded on input line 25.
+Package plautopatch Info: No additional packages loaded on input line 27.
 [11] (./script.aux) ) 
 Here is how much of TeX's memory you used:
- 2189 strings out of 475526
- 34185 string characters out of 5794121
- 376884 words of memory out of 5000000
- 23843 multiletter control sequences out of 15000+600000
- 480537 words of font info for 86 fonts, out of 8000000 for 9000
+ 2196 strings out of 475526
+ 34284 string characters out of 5794121
+ 376892 words of memory out of 5000000
+ 23849 multiletter control sequences out of 15000+600000
+ 481716 words of font info for 92 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 54i,6n,62p,222b,260s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 54i,6n,62p,222b,258s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on script.dvi (11 pages, 1708 bytes).
+Output written on script.dvi (11 pages, 1924 bytes).
